@@ -1,3 +1,6 @@
+
+#Copyright (C) 2023 Francesco Maresca (@programmerhelloworld). All rights reserved.
+
 choose = input("Rectangle area (rectangle), Triangle area (triangle), Square(square): ")
 
 if choose == "rectangle":

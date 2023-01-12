@@ -1,9 +1,9 @@
 //
 //  main.cpp
-//  AreaCalculator
+//  AreaCalculator CLI
 //
 //  Created by @programmerhelloworld (Francesco Maresca) on 03/03/22.
-//
+//  Copyright 2023, Francesco Maresca
 
 #include <iostream>
 
